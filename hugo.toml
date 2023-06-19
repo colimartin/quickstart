@@ -1,0 +1,4 @@
+baseURL = 'http://apps-safety-stock.org/'
+languageCode = 'en-us'
+title = 'Apps Associates Safety Stock ML'
+theme = 'ananke'
